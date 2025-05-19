@@ -1,4 +1,6 @@
 # drand-mcp-server 🎲
+![build](https://github.com/randa-mu/drand-mcp-server/actions/workflows/build.yml/badge.svg)
+
 
 Use verifiable randomness in your AI application. This [MCP](https://modelcontextprotocol.io) server enables you to get a random value from the [drand](https://drand.love) network, verify its validity and use it as an input seed to your model-driven flows!
 
